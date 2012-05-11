@@ -4,6 +4,7 @@
 # master for a day or more and sets a critical status if the node hasn't
 # checked in for a week or longer. You can of course tweak those thresholds
 # if you want.
+#
 
 # Spot of configuration. Basically just specify where the yaml files live.
 YAMLPATH=/var/lib/puppet/yaml/node
